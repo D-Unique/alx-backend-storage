@@ -1,0 +1,2 @@
+// This file contains a script that prints all the the db in a Mongo db
+Show dbs

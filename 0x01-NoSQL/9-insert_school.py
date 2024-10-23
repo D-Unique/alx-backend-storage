@@ -11,5 +11,4 @@ def insert_school(mongo_collection, **kwargs):
     a collection based on kwargs
     """
     result = mongo_collection.insert({kwargs})
- 
     return result
